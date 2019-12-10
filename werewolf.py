@@ -1,5 +1,6 @@
 import random
 
+
 player_array = [
     "Jose",
     "Pedro",
